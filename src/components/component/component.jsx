@@ -13,7 +13,7 @@ export function Component() {
             <div className="space-y-2">
               <h1 className="text-4xl font-bold tracking-tighter text-white sm:text-5xl md:text-6xl">SOLTRUST</h1>
               <p className="max-w-[600px] text-lg text-primary-foreground">
-                Empowering the future of decentralized finance through blockchain technology and community-driven
+                Empowering the future of decentralized finance through Solana Technology and community-driven
                 development.
               </p>
             </div>
